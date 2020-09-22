@@ -1,3 +1,3 @@
-# UNIX-Mini-Proj-Quiz
+# Quiz-Shell-script
 
-A simple quiz app made using shell script
+A simple quiz app implemented using shell script
